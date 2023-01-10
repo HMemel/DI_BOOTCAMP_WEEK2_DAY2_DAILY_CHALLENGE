@@ -18,5 +18,5 @@ if (wordNot < wordBad && wordBad !== -1) {
 
 // If the word “bad” does not come after “not” or the words are not in the sentence, console.log the original sentence.
 } else {
-  console.log(sentence);
+  console.log(newSentence);
 }
